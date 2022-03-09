@@ -1,8 +1,4 @@
-﻿
-0;Female;Green Eye Shadow,Earring,Blonde Bob;0xe08c32;
-0;Female;Green Eye Shadow,Earring,Blonde Bob;0xe08c32;
-0;Female;Green Eye Shadow,Earring,Blonde Bob;0xe08c32;
-0;Female;Green Eye Shadow,Earring,Blonde Bob;0xe08c32;
+﻿0;Female;Green Eye Shadow,Earring,Blonde Bob;0xe08c32;
 1;Male;Smile,Mohawk;0xb88f61;
 2;Female;Wild Hair;alien635…;
 3;Male;Wild Hair,Nerd Glasses,Pipe;0xc352b5;

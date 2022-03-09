@@ -1,13 +1,13 @@
 
-Bid Withdrawn;noun12.e…;;28Ξ ($109,026);May 13, 2021
-Bid;noun12.e…;;28Ξ ($71,053);Apr 26, 2021
-Bid Withdrawn;natealex;;4.40Ξ ($621);Jan 06, 2020
-Bid;natealex;;4.40Ξ ($589);Jan 04, 2020
-Bid Withdrawn;Carlini8;;2Ξ ($255);Jan 03, 2020
-Bid;Carlini8;;2Ξ ($264);Jan 01, 2020
-Bid Withdrawn;jmg;;2Ξ ($250);Dec 28, 2019
-Bid;jmg;;2Ξ ($373);Aug 25, 2019
-Bid Withdrawn;0x00d7c9;;1Ξ ($238);Jul 09, 2017
-Bid;0x00d7c9;;1Ξ ($246);Jul 08, 2017
-Bid;ddaavvee;;0.10Ξ ($28);Jun 25, 2017
+Bid Withdrawn;noun12.e…;;109026;May 13, 2021
+Bid;noun12.e…;;71053;Apr 26, 2021
+Bid Withdrawn;natealex;;621;Jan 06, 2020
+Bid;natealex;;589;Jan 04, 2020
+Bid Withdrawn;Carlini8;;255;Jan 03, 2020
+Bid;Carlini8;;264;Jan 01, 2020
+Bid Withdrawn;jmg;;250;Dec 28, 2019
+Bid;jmg;;373;Aug 25, 2019
+Bid Withdrawn;0x00d7c9;;238;Jul 09, 2017
+Bid;0x00d7c9;;246;Jul 08, 2017
+Bid;ddaavvee;;28;Jun 25, 2017
 Claimed;;0xc352b5;;Jun 23, 2017
