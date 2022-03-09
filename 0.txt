@@ -1,0 +1,43 @@
+
+Bid;frankyni…;;1Ξ ($4,048);Dec 25, 2021
+Bid Withdrawn;0xe73a1d;;321Ξ ($1.26M);Sep 04, 2021
+Bid;0xe73a1d;;321Ξ ($1.14M);Sep 01, 2021
+Bid Withdrawn;ethmania…;;320Ξ ($1.11M);Sep 01, 2021
+Bid;ethmania…;;320Ξ ($1.1M);Sep 01, 2021
+Bid Withdrawn;ethmania…;;263Ξ ($904,481);Sep 01, 2021
+Bid;ethmania…;;263Ξ ($849,714);Aug 29, 2021
+Bid Withdrawn;0x983ace;;250Ξ ($1.03M);May 10, 2021
+Bid;0x983ace;;250Ξ ($537,615);Apr 11, 2021
+Bid Withdrawn;0xd7510a;;100Ξ ($160,973);Mar 03, 2021
+Bid;0xd7510a;;100Ξ ($188,897);Feb 20, 2021
+Bid Withdrawn;natealex;;69Ξ ($25,532);Sep 16, 2020
+Bid;natealex;;69Ξ ($25,104);Sep 15, 2020
+Bid Withdrawn;natealex;;49Ξ ($7,031);Jan 11, 2020
+Bid;natealex;;49Ξ ($6,786);Jan 09, 2020
+Bid Withdrawn;natealex;;44Ξ ($6,329);Jan 08, 2020
+Bid;natealex;;44Ξ ($5,905);Dec 30, 2019
+Bid Withdrawn;natealex;;0Ξ ($1);Dec 30, 2019
+Bid;natealex;;0Ξ ($1);Dec 30, 2019
+Bid Withdrawn;GoWest23;;18.50Ξ ($4,544);May 23, 2019
+Bid;GoWest23;;18.50Ξ ($4,504);May 22, 2019
+Bid Withdrawn;PsyRen;;40Ξ ($6,597);Apr 02, 2019
+Bid;PsyRen;;40Ξ ($6,597);Apr 02, 2019
+Sold;0xf5099e;0xe08c32;25Ξ ($2,822);Nov 30, 2018
+Bid;0xe08c32;;25Ξ ($2,822);Nov 30, 2018
+Offered;;;100Ξ ($18,303);Sep 12, 2018
+Offered;;;200Ξ ($138,566);Dec 16, 2017
+Bid;0x7760e0;;13Ξ ($3,132);Jul 07, 2017
+Bid;0x00d7c9;;13Ξ ($3,132);Jul 07, 2017
+Offered;;;400Ξ ($96,376);Jul 07, 2017
+Transfer;0xa0a59c;0xf5099e;;Jul 07, 2017
+Sold;0x00d7c9;0xa0a59c;1.60Ξ ($386);Jul 07, 2017
+Bid;0xa0a59c;;1.60Ξ ($386);Jul 07, 2017
+Bid;0x7760e0;;1.53Ξ ($422);Jul 03, 2017
+Bid;0xa0a59c;;1.52Ξ ($422);Jul 03, 2017
+Bid;0x7760e0;;1.30Ξ ($369);Jul 02, 2017
+Bid;0xa0a59c;;1.30Ξ ($369);Jul 02, 2017
+Bid;0x717403;;0.05Ξ ($14);Jun 25, 2017
+Sold;0xc352b5;0x00d7c9;0.98Ξ ($320);Jun 23, 2017
+Bid;0x00d7c9;;0.98Ξ ($320);Jun 23, 2017
+Bid;0x948a10;;0.67Ξ ($219);Jun 23, 2017
+Claimed;;0xc352b5;;Jun 23, 2017

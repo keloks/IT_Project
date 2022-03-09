@@ -1,0 +1,31 @@
+
+Bid Withdrawn;0x8adc26;;48Ξ ($151,860);Aug 09, 2021
+Bid;0x8adc26;;48Ξ ($149,433);Aug 07, 2021
+Bid Withdrawn;vdp.eth;;14Ξ ($34,230);Jul 31, 2021
+Bid;vdp.eth;;14Ξ ($34,230);Jul 31, 2021
+Transfer;0xc352b5;alien635…;;Jun 09, 2021
+Bid;0xtajar.…;;<0.01Ξ ($6);Jun 04, 2021
+Bid Withdrawn;0x4c9692;;9.50Ξ ($12,718);Jan 30, 2021
+Bid;0x4c9692;;9.50Ξ ($12,783);Jan 28, 2021
+Bid Withdrawn;DANNY;;20Ξ ($6,914);Sep 21, 2020
+Bid;DANNY;;20Ξ ($7,400);Sep 20, 2020
+Bid Withdrawn;0x9b35db;;9Ξ ($3,532);Aug 24, 2020
+Bid;0x9b35db;;9Ξ ($3,504);Aug 22, 2020
+Bid Withdrawn;natealex;;8Ξ ($1,125);Jan 07, 2020
+Bid;natealex;;8Ξ ($1,071);Jan 04, 2020
+Bid Withdrawn;jmg;;3.35Ξ ($431);Jan 01, 2020
+Bid;jmg;;3.35Ξ ($433);Dec 31, 2019
+Bid Withdrawn;jmg;;4Ξ ($500);Dec 28, 2019
+Bid;jmg;;4Ξ ($724);Oct 02, 2019
+Bid Withdrawn;jmg;;3.50Ξ ($634);Oct 02, 2019
+Bid;jmg;;3.50Ξ ($634);Sep 12, 2019
+Bid Withdrawn;jmg;;2.70Ξ ($489);Sep 12, 2019
+Bid;jmg;;2.70Ξ ($504);Aug 25, 2019
+Bid;0x7760e0;;1.10Ξ ($270);Jul 08, 2017
+Bid;0x00d7c9;;1.10Ξ ($270);Jul 08, 2017
+Bid;0x7760e0;;1Ξ ($246);Jul 08, 2017
+Bid;0x00d7c9;;1Ξ ($246);Jul 08, 2017
+Bid;0x8b27de;;0.51Ξ ($123);Jul 07, 2017
+Bid Withdrawn;0xa0a59c;;0.42Ξ ($117);Jun 25, 2017
+Bid;0xa0a59c;;0.42Ξ ($117);Jun 25, 2017
+Claimed;;0xc352b5;;Jun 23, 2017
