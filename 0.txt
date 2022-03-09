@@ -1,0 +1,43 @@
+
+Bid;frankyni…;;4048;Dec 25, 2021
+Bid Withdrawn;0xe73a1d;;1260000.0;Sep 04, 2021
+Bid;0xe73a1d;;1140000.0;Sep 01, 2021
+Bid Withdrawn;ethmania…;;1110000.0;Sep 01, 2021
+Bid;ethmania…;;1100000.0;Sep 01, 2021
+Bid Withdrawn;ethmania…;;904481;Sep 01, 2021
+Bid;ethmania…;;849714;Aug 29, 2021
+Bid Withdrawn;0x983ace;;1030000.0;May 10, 2021
+Bid;0x983ace;;537615;Apr 11, 2021
+Bid Withdrawn;0xd7510a;;160973;Mar 03, 2021
+Bid;0xd7510a;;188897;Feb 20, 2021
+Bid Withdrawn;natealex;;25532;Sep 16, 2020
+Bid;natealex;;25104;Sep 15, 2020
+Bid Withdrawn;natealex;;7031;Jan 11, 2020
+Bid;natealex;;6786;Jan 09, 2020
+Bid Withdrawn;natealex;;6329;Jan 08, 2020
+Bid;natealex;;5905;Dec 30, 2019
+Bid Withdrawn;natealex;;1;Dec 30, 2019
+Bid;natealex;;1;Dec 30, 2019
+Bid Withdrawn;GoWest23;;4544;May 23, 2019
+Bid;GoWest23;;4504;May 22, 2019
+Bid Withdrawn;PsyRen;;6597;Apr 02, 2019
+Bid;PsyRen;;6597;Apr 02, 2019
+Sold;0xf5099e;0xe08c32;2822;Nov 30, 2018
+Bid;0xe08c32;;2822;Nov 30, 2018
+Offered;;;18303;Sep 12, 2018
+Offered;;;138566;Dec 16, 2017
+Bid;0x7760e0;;3132;Jul 07, 2017
+Bid;0x00d7c9;;3132;Jul 07, 2017
+Offered;;;96376;Jul 07, 2017
+Transfer;0xa0a59c;0xf5099e;;Jul 07, 2017
+Sold;0x00d7c9;0xa0a59c;386;Jul 07, 2017
+Bid;0xa0a59c;;386;Jul 07, 2017
+Bid;0x7760e0;;422;Jul 03, 2017
+Bid;0xa0a59c;;422;Jul 03, 2017
+Bid;0x7760e0;;369;Jul 02, 2017
+Bid;0xa0a59c;;369;Jul 02, 2017
+Bid;0x717403;;14;Jun 25, 2017
+Sold;0xc352b5;0x00d7c9;320;Jun 23, 2017
+Bid;0x00d7c9;;320;Jun 23, 2017
+Bid;0x948a10;;219;Jun 23, 2017
+Claimed;;0xc352b5;;Jun 23, 2017

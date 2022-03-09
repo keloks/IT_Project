@@ -1,0 +1,64 @@
+
+Bid Withdrawn;0xe73a1d;;777132;Sep 04, 2021
+Bid;0xe73a1d;;742652;Sep 02, 2021
+Bid Withdrawn;ethmania…;;686169;Sep 01, 2021
+Bid;ethmania…;;636024;Aug 31, 2021
+Bid Withdrawn;ethmania…;;587840;Aug 31, 2021
+Bid;ethmania…;;591246;Aug 29, 2021
+Bid;0x118c16;;485927;Aug 28, 2021
+Bid;0x6b3e41;;209871;Aug 28, 2021
+Bid Withdrawn;0xe1e492;;32197;Aug 13, 2021
+Bid;0xe1e492;;32276;Aug 12, 2021
+Transfer;0xcf6165;0xb88f61;;Nov 30, 2020
+Sold;EliteCat…;0xcf6165;36305;Nov 30, 2020
+Bid;0xcf6165;;36305;Nov 30, 2020
+Offered;;;46842;Nov 25, 2020
+Bid Withdrawn;natealex;;30187;Nov 23, 2020
+Bid;natealex;;29918;Nov 23, 2020
+Offered;;;65980;Nov 22, 2020
+Offered;;;90921;Sep 15, 2020
+Offer Withdrawn;;;;Sep 14, 2020
+Offered;;;54973;Sep 10, 2020
+Offer Withdrawn;;;;May 27, 2020
+Bid Withdrawn;DANNY;;8107;May 14, 2020
+Offered;;;60811;May 14, 2020
+Bid;DANNY;;8088;May 14, 2020
+Offered;;;40461;May 08, 2020
+Offer Withdrawn;;;;May 08, 2020
+Offered;;;91274;Feb 22, 2020
+Offer Withdrawn;;;;Feb 22, 2020
+Offered;;;25310;Feb 18, 2020
+Offer Withdrawn;;;;Feb 18, 2020
+Offered;;;149453;Feb 06, 2020
+Offer Withdrawn;;;;Jan 17, 2020
+Offered;;;87406;Dec 10, 2019
+Transfer;EliteNFT;EliteCat…;;Jun 09, 2019
+Offered;;;155461;May 06, 2019
+Transfer;EliteCat…;EliteNFT;;Apr 13, 2019
+Transfer;GoWest23;EliteCat…;;Apr 06, 2019
+Sold;0xf5099e;GoWest23;5155;Apr 06, 2019
+Bid Withdrawn;GoWest23;;3575;Apr 06, 2019
+Bid;GoWest23;;3575;Apr 06, 2019
+Offered;;;4153;Mar 25, 2019
+Offered;;;3824;Feb 08, 2019
+Bid Withdrawn;jmg;;747;Jan 03, 2019
+Offered;;;4210;Dec 25, 2018
+Bid;jmg;;704;Dec 24, 2018
+Offered;;;5920;Dec 23, 2018
+Offered;;;5644;Nov 30, 2018
+Offered;;;13727;Sep 12, 2018
+Bid Withdrawn;0x55c016;;50;Feb 03, 2018
+Bid;0x55c016;;24;Dec 05, 2017
+Offered;;;46281;Dec 03, 2017
+Offered;;;72282;Jul 07, 2017
+Transfer;0xa0a59c;0xf5099e;;Jul 07, 2017
+Bid;0x7760e0;;16;Jun 28, 2017
+Offered;;;85842;Jun 27, 2017
+Sold;0xc352b5;0xa0a59c;107;Jun 26, 2017
+Bid;0xa0a59c;;107;Jun 26, 2017
+Bid;0x717403;;98;Jun 25, 2017
+Bid;sov;;98;Jun 25, 2017
+Bid;0xa0a59c;;1;Jun 25, 2017
+Bid Withdrawn;sov;;61;Jun 24, 2017
+Bid;sov;;61;Jun 24, 2017
+Claimed;;0xc352b5;;Jun 23, 2017
